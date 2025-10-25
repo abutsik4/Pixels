@@ -1,2 +1,2 @@
 # Pixels
-This is Week 5 excersie, main repository for the R material.
+This is Week 5 exercise, main repository for the R material.
